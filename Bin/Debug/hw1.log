@@ -1,0 +1,29 @@
+﻿  hw1.cpp
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(87): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(88): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(136): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(138): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(139): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(142): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(150): warning C4305: '=': truncation from 'double' to 'GLfloat'
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(158): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(164): warning C4305: '=': truncation from 'double' to 'GLfloat'
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(172): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(179): warning C4305: '=': truncation from 'double' to 'GLfloat'
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(192): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(199): warning C4305: '=': truncation from 'double' to 'GLfloat'
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(268): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(269): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(272): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(278): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(284): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(290): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(390): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 1\working\assign1_coreopengl_startercode\hw1-startercode\hw1.cpp(582): warning C4305: 'argument': truncation from 'double' to 'float'
+  jpeg.lib(jerror.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+  hw1.vcxproj -> F:\Padhai\USC\USC Studies\CSCI-420 Computer Graphics\Assignment 1\Working\assign1_coreOpenGL_starterCode\hw1-starterCode\\Bin\Debug\hw1.exe
