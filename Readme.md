@@ -4,6 +4,7 @@ This project creates a height field based on the data from an image which the us
 and allows the user to manipulate the height field in three dimensions by rotating, translating, or scaling it. 
 This project was implemented using OpenGL's core profile.
 
+![](animation/005.jpg)
 
 User key:
 'x' to take screenshot
